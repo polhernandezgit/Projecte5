@@ -5,5 +5,5 @@ Mentre inicieu la vostra aventura emprenedora, cal seguir pagant factures. Gràc
 ## Introducció al client
 L'empresa TransLògic S.A., dedicada a la logística regional, vol renovar la seva infraestructura de servidors a la versió Windows Server 2025. Actualment disposen d'un servidor físic antic que ha quedat obsolet i volen virtualitzar tota la seva càrrega de treball per millorar la disponibilitat.
 
-## Link a la presentació.
-https://www.canva.com/design/DAG-f-gpvyE/vSJmznJFIO68KVnPamvuEQ/edit?utm_content=DAG-f-gpvyE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Link a la solució.
+[solucio.md](solucio.md)
